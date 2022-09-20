@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vicon007
-- 👀 I’m interested in programming languages and frameworks for full-stack web development, mobile/web apps, and data analytics.
-- 🌱 I currently use HTML/HTML5, CSS/CSS3, Grid, Flexbox, SASS, Tailwind CSS, JavaScript, React.js., Bootstrap, Node.js, React Native, SQL, MySQL, Python, Django, Flask, and R.
+- 👀 I’m interested in programming languages and frameworks used for front end development and data analytics.
+- 🌱 I currently use HTML5, CSS3, CSS Grid, Flexbox, SASS, Bootstrap 5, JavaScript, React.js., SQL, MySQL, and Python.
 I also build beautiful WordPress websites with Elementor and Divi.
-- 💞️ I’m looking to collaborate on interesting frontend web projects and data analytics projects. I'm also open to hiring for full-time/part-time/contract/freelance projects.
+- 💞️ I’m looking to collaborate on interesting front end web/app projects and data analytics projects. I'm also open to hiring for full-time/part-time/contract/freelance projects.
 - 📫 You can reach me via my email: victoronotu@gmail.com or my Instagram @vic_warriorking.
 
 <!---
